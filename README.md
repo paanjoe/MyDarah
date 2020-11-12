@@ -1,4 +1,4 @@
-[![Build status](https://dev.azure.com/umutesen/onthecode/_apis/build/status/Material%20Template%20CI)](https://dev.azure.com/umutesen/onthecode/_build/latest?definitionId=11)
+<!-- [![Build status](https://dev.azure.com/umutesen/onthecode/_apis/build/status/Material%20Template%20CI)](https://dev.azure.com/umutesen/onthecode/_build/latest?definitionId=11)
 
 # [Angular Material Starter Template](https://onthecode.co.uk/angular-material-starter-template-for-your-next-project/)
 
@@ -250,4 +250,4 @@ If you have questions or need help integrating the product please [contact us](h
 ## Licensing
 
 - Copyright 2019 onthecode (https://onthecode.co.uk/)
-- Licensed under MIT [License Agreement](https://github.com/umutesen/angular-material-template/blob/master/LICENSE)
+- Licensed under MIT [License Agreement](https://github.com/umutesen/angular-material-template/blob/master/LICENSE) -->
